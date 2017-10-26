@@ -1,0 +1,27 @@
+.caja {
+    height: 301px;
+    width: 301px;
+    background-color: blue;
+}
+
+.caja1 {
+    margin: 0 auto;
+    height: 155px;
+    width: 155px;
+    background-color: green;
+    position: relative;
+
+    top: -14em;
+    left: -32.9em;
+}
+
+.caja2 {
+    margin: 0 auto;
+    height: 77px;
+    width: 73px;
+    background-color: black;
+    position: relative;
+
+    top: -28.5em;
+    left: -40em;
+}
